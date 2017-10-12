@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FragileWorlds.Plugins", "FragileWorlds.Plugins.csproj", "{527A48D2-24BA-549E-9862-4AD525322CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FragileWorlds", "FragileWorlds.csproj", "{62B89057-3DFE-5908-C5A3-A21B223C2768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FragileWorlds.Editor.Plugins", "FragileWorlds.Editor.Plugins.csproj", "{0373E725-10BE-0419-42EC-279643C8C64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527A48D2-24BA-549E-9862-4AD525322CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527A48D2-24BA-549E-9862-4AD525322CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527A48D2-24BA-549E-9862-4AD525322CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527A48D2-24BA-549E-9862-4AD525322CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B89057-3DFE-5908-C5A3-A21B223C2768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B89057-3DFE-5908-C5A3-A21B223C2768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B89057-3DFE-5908-C5A3-A21B223C2768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B89057-3DFE-5908-C5A3-A21B223C2768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0373E725-10BE-0419-42EC-279643C8C64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0373E725-10BE-0419-42EC-279643C8C64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0373E725-10BE-0419-42EC-279643C8C64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0373E725-10BE-0419-42EC-279643C8C64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
